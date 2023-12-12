@@ -1,4 +1,4 @@
-# Audio-Video Merger Script
+# Audio-Video-Merger Script
 
 ## Description
 This script is designed to automate the process of merging MP3 audio files with MP4 video files. It reduces the volume of the video to 15% and merges the MP3 audio, then renders the output to a new MP4 file. The output files are automatically organized into a directory named after the parent directory with "output" appended to it.
